@@ -1,4 +1,14 @@
 # BaiduPano-unity-plugin
 
-### 参考
-- [百度sdk下载及配置文档](http://lbsyun.baidu.com/index.php?title=ios-panosdk/guide/helloworld)
+## Usage
+
+In the unity3d LBS Game, pick a coordinate and show the real world scenery.
+
+## Introduce
+
+- iOS only.
+- Add a UIKit view upon unityGLView.
+
+## Doc
+
+- [BaiduPanoSDK Guide](http://lbsyun.baidu.com/index.php?title=ios-panosdk/guide/helloworld)
