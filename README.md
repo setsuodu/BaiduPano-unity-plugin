@@ -8,6 +8,7 @@ In the unity3d LBS Game, pick a coordinate and show the real world scenery.
 
 - iOS only.
 - Add a UIKit view upon unityGLView.
+- 使用到libstdc++.6.0.9.tbd
 
 ## Doc
 
